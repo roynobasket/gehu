@@ -1,0 +1,4 @@
+jp/espresso3389/pdf_render/ByteBufferHelper.java
+ jp.espresso3389.pdf_render.ByteBufferHelper
+jp/espresso3389/pdf_render/BuildConfig.java
+ jp.espresso3389.pdf_render.BuildConfig

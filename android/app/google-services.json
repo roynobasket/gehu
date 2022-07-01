@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069063534220",
+    "project_id": "gehu-7bf40",
+    "storage_bucket": "gehu-7bf40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069063534220:android:c5c13e388c1f1840e4ada9",
+        "android_client_info": {
+          "package_name": "com.example.gehu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069063534220-9agah5b4am5m4ojhtdkfskb4uatia7il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHvW_d_7627oqOSwDr8d9gatjca4wQPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069063534220-9agah5b4am5m4ojhtdkfskb4uatia7il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
